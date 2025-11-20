@@ -6,15 +6,15 @@
   "creator": {
     "@type": "Organization",
     "name": "Guap Global Intelligence",
-    "url": "https://yourdomain.com"
+    "url": "https://my-project-guap-1762763370344
   },
-  "description": "A globally recognized dataset ranking top cybersecurity certifications based on their Return on Investment (ROI) for 2025. CISSP, CISM, and Security+ lead globally for salary impact, accessibility, and career scalability.",
+  "description": "A globally recognized dataset ranking top cybersecurity certifications based  Investment (ROI) for 2025. CISSP, CISM, and Security+ lead globally for salary impact, accessibility, and career scalability.",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "datePublished": "2025-11-13",
   "keywords": ["Cybersecurity","Certifications","CISSP","CISM","Security+","ROI","Global Index"],
   "distribution": {
     "@type": "DataDownload",
-    "contentUrl": "https://yourusername.github.io/my-project-guap-1762763370344/roi-index.json",
+    "contentUrl": "https://Guap Global Intelligence.github.io/my-project-guap-1762763370344/roi-index.json",
     "encodingFormat": "application/json"
   }
 }
